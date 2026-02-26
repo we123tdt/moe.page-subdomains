@@ -7,5 +7,5 @@
   "records": {
     "CNAME": "f0a75131582c45de.vercel-dns-017.com"
   },
-  "proxied": true
+  "proxied": false
 }
