@@ -5,7 +5,7 @@
   },
   "domain": "reimu",
   "records": {
-    "CNAME": "mtr-pids.vercel.app"
+    "CNAME": "sigene-beca2.web.app"
   },
   "proxied": false
 
