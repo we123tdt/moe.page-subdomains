@@ -6,7 +6,7 @@
   "domain": "cn.a10-8",
   "records": {
     "A": [
-      "1.2.3.4"
+      "223.5.5.5"
     ]
   },
   "proxied": false
