@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "we123tdt",
+    "email": "ghu123334@outlook.com"
+  },
+  "domain": "luna",
+  "records": {
+    "A": [
+      "1.2.3.4"
+    ]
+  },
+  "proxied": false
+}
